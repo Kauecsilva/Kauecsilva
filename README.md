@@ -1,6 +1,6 @@
 ### Olá, eu sou Kauê Custodio 😊
 - 🔭 Hoje eu trabalho como Jovem Aprendiz na Kuehne+Nagel
-- 🌱 Estou estudando Analise e desenvolvimento de sistemas e pyhton
+- 🌱 Estou estudando Analise e desenvolvimento de sistemas e me apronfundando em Desenvolvimento WEB (HTML, CSS e Javascript).
 <div align="center">
   <a href="https://github.com/Kauecsilva">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Kauecsilva&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
