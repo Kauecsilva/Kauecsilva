@@ -36,7 +36,9 @@ Analista de Controle na **CPFL Energia**, em Indaiatuba/SP. Meu papel é atender
 
 #### 📌 Projetos
 
-- [**Fishao**](https://github.com/Kauecsilva/Fishao): site de ranking de pesca (JavaScript)
+- [**Pesqueiro.GG**](https://pesqueiro-gg.vercel.app) 🎣: site da turma de pesca, com login, registro de peixes com foto, espécie e tamanho, e ranking com plano de carreira (Next.js + Supabase, na Vercel)
+- **Kakau-bot** 🤖: bot de Discord em Python para sortear jogos, rolar dados, tirar cara ou coroa e listar os comandos (repositório privado)
+- **Landing page Dra. Priscila Rodrigues** 🦷: landing page profissional para uma ortodontista
 - [**Projeto-pokemon-slider**](https://github.com/Kauecsilva/Projeto-pokemon-slider): meu primeiro projeto web, um slider de cartas em HTML, CSS e JavaScript
 
 ##
